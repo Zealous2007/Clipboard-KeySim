@@ -1,2 +1,4 @@
 # Clipboard-KeySim
-Simulates keys to paste your clipboard.
+RECOMMENDED: Virtual environment
+
+Description: Simulates keys to paste your clipboard. (Bypasses paste prevention)
